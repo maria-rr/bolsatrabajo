@@ -1,0 +1,12 @@
+beans\helper\ColoniaHelper.class
+beans\backing\ConsultaRegistroAFFMB.class
+beans\model\Colonia.class
+beans\backing\AdminAvanceFFMB.class
+beans\lifecicle\DebuggerListener.class
+beans\model\Candidato.class
+beans\model\AvanceFFTablaDTO.class
+beans\model\AvanceFisicoDTO.class
+beans\model\TipoMonedaVO.class
+beans\backing\VacanteForm.class
+beans\configuracion\ConfigurationJSF.class
+beans\model\ColumnaTablaDTO.class

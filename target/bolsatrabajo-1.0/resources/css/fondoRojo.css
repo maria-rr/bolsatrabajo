@@ -1,0 +1,59 @@
+table.tscroll-mcrr td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+table.tscroll-mcrr th:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+
+table.tscroll-mcrr td, th {
+  border-bottom: dashed #888 1px;
+}
+
+/* -------------------------------------------- version -----------------------------------*/
+table.tscroll-mcrr > thead:first-child > tr:first-child > th:first-child {
+    position: absolute;
+    display: inline-block;
+    background-color: red;
+  
+}
+table.tscroll-mcrr > tbody > tr > td:first-child {
+    position: absolute;
+    display: inline-block;
+    background-color: red;
+   
+}
+
+table.tscroll-mcrr > thead:first-child > tr:first-child > th:nth-child(1) {
+    padding-left: 40px;
+}
+
+table.tscroll-mcrr > tbody > tr > td:nth-child(1) {
+    padding-left: 50px !important;
+}
+
+/*---------------------------------------version**/
+table.tscroll-mcrr > tbody > tr > td:first-child { 
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+table.tscroll-mcrr thead:first-child > tr:first-child > th:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+/*****/
+table.tscroll-mcrr > tbody > tr > td:first-child { 
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+table.tscroll-mcrr thead:first-child > tr:first-child > th:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}

@@ -1,0 +1,9 @@
+.tscroll table th:first-child,td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: #ddd;
+}
+
+.tscroll td, .tscroll th {
+  border-bottom: dashed #888 1px;
+}
