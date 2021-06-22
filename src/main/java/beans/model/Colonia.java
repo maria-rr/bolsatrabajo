@@ -14,7 +14,7 @@ public class Colonia {
     
     
     public Colonia(){
-        
+        //comentario para commit 2
     }
     
     public int getColoniaId() {
